@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="public/favicon.png" alt="NutriCare Logo" width="120" height="120" />
-  <h1>🍎 NutriCare</h1>
+  <h1>NutriCare-Where Wellness Begins with a Touch of Care</h1>
   <p><strong>AI-Powered Maternal Nutrition & Health Management Platform</strong></p>
   
   [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
