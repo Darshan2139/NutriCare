@@ -390,7 +390,7 @@ npm run test:watch
 npm test -- Dashboard.test.tsx
 ```
 ## 🙏 Acknowledgments
--**Python Model(with dataset) ** - For Dite plan
+- **Python Model(with dataset)** - For Dite plan
 - **Google Gemini AI** - For providing the AI capabilities
 - **Radix UI** - For the excellent component library
 - **TailwindCSS** - For the utility-first CSS framework
